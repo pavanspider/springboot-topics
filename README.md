@@ -1,2 +1,4 @@
 # springboot-topics
-Repo for a spring boot dev
+In this tutorial, we're going to do some stuff using microservices with spring boot.
+
+    
